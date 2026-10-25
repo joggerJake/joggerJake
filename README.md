@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joggerJake
-- 👀 I’m interested in C# and Javascript programming and Search Engine Optimization
-- 🌱 I’m currently learning how to write applications with automated testing suites.
-- 💞️ I’m looking to collaborate on any work adjacent to housing or transportation policy.
+- 👀 I’m interested in C#, SQL, Data Engineering, and Finance Operations. I am currently a data engineer at an asset management firm in Chicago.
+- 🌱 I’m currently learning how to use Machine Learning techniques on financial data. I'm also working on my MBA at UChicago Booth (Target Graduation Date of Spring 2027)
 - 📫 How to reach me - jakecmullen at gmail.com
 
 <!---
